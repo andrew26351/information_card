@@ -1,4 +1,4 @@
-let url = "http://randomuser.me/api/"
+let url = "https://randomuser.me/api/"
 let globalPerson
 
 fetch(url).then(
